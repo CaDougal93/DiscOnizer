@@ -1,0 +1,8 @@
+        <select id="getType" onchange="showDiv(this)">
+            <option id="select" value="">Select Type</option>
+            <option id="isDvd"  value="1">DVD</option>
+            <option id="isGame" value="2">Game</option>
+            <option id="isCD"   value="3">CD</option>
+        </select>
+
+        

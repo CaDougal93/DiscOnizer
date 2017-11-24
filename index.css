@@ -1,0 +1,106 @@
+html {
+background-color: lightblue;
+}
+
+#showDiscs{
+    position: relative;
+    top: 250px;
+}
+
+#addDvd{
+    position: relative;
+    top: 0px;
+    display: none;
+}
+
+#addGme{
+    position: relative;
+    top: 0px;
+    display: none;
+}
+
+#addCd{
+    position: relative;
+    top: 0px;
+    display: none;
+}
+
+#newDiskName{
+    position: relative;
+    top: 100px;
+}
+
+#getType{
+    position: relative;
+    top: 100px;
+}
+
+#ribbon {
+    position: relative;
+    height: 35px; 
+}
+
+#homePageTab{
+    position: relative;
+    left: 0px;
+}
+
+/*#findDiscTab{
+    position: relative;
+    left: 20px;
+}*/
+
+#remveDiscTab{
+    position: relative;
+    left: 20px;
+}
+
+#addDiscTab{
+    position: relative;
+    left: 40px;
+}
+
+table{
+ border: 1px solid black;  
+}
+
+th{ 
+    padding-right: 15px; 
+}
+
+td{
+    text-align: left;
+    padding-right: 15px;  
+}
+
+#movieList{
+    position: relative;    
+}
+
+#gameList{
+    position: relative;
+}
+
+#cdList{
+    position: relative;
+}
+
+#discName{
+    display: none;
+}
+
+#removeMovie{
+    display: none;
+}
+
+#removeGame{
+    display: none;
+}
+
+#removeCd{
+    display: none;
+}
+
+#deleteBut{
+    display: none;
+}
